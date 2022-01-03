@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=    NewDesignator=C8
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=D0/RX Pin=JP2-3
+Added Pin To Net: NetName=D1/TX Pin=JP2-4
+Added Member To Class: ClassName=Sheet1 Member=Component C8 4.7uF
+Added Room: Name=Sheet1

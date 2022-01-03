@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=3 NewDesignator=D5
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Member To Class: ClassName=Sheet1 Member=Component D6 P6KE200A
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x4 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component RL1 Relay
+Added Member To Class: ClassName=Sheet1 Member=Component X1 flyback tranformer
+Added Room: Name=Sheet1
